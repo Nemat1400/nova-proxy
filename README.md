@@ -2,7 +2,7 @@
 
 <div align="right">
   <a href="README.fa.md">🇮🇷 فارسی</a>
-</div>
+</div>.
 
 <img src="./assets/readme/hero.svg" width="100%" alt="Nova Proxy: your own censorship-resistant proxy with a full admin panel on a single Cloudflare Worker, free tier. Clients connect to a Worker on Cloudflare's edge, with no origin server.">
 
